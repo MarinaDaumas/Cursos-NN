@@ -1,6 +1,6 @@
 # Cursos-NN
 
-Repositório com anotaçoes e outras coisas imprtantes sobre a os cursos da especialização em redes neurais.<br/>
+Repositório com anotaçoes e outras coisas imprtantes sobre a os cursos da especialização em redes neurais ofericdos por deeplearning.ai no Coursera.<br/>
 [link da especialização](https://www.coursera.org/specializations/deep-learning)
 
 
