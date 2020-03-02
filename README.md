@@ -17,6 +17,11 @@ Repositório com anotaçoes e outras coisas imprtantes sobre a os cursos da espe
 - Optimization algorithms
 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
+## Curso 3: Structuring Machine Learning projects
+
+- ML Strategy 1
+- ML Strategy 2
+
 ## Curso 4: Convolutional Neural Networks
 
 - Foundations of Convolutional Neural Networks
